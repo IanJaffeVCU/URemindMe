@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="387dp"
+    android:layout_height="650dp"
+    tools:context=".ui.to_do.ToDoFormFragment">
+
+    <ImageButton
+
+        android:id="@+id/backButton"
+        android:layout_width="37dp"
+        android:layout_height="41dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/ic_round"
+        android:backgroundTint="#FF80AB"
+        android:src="@drawable/ic_arrow_back_"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <GridView
+
+        android:layout_width="326dp"
+        android:layout_height="126dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="84dp"
+        android:background="@drawable/round_button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="244dp"
+        android:layout_marginBottom="28dp"
+        android:backgroundTint="#FF80AB"
+        android:text="Submit"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/classSelect"
+        android:layout_width="168dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginBottom="220dp"
+        android:text="Class/Group"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/et_time"
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="216dp"
+
+        android:layout_marginBottom="276dp"
+        android:background="@drawable/round_button"
+        android:ems="10"
+        android:inputType="time"
+        android:text="Time"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/et_month"
+        android:layout_width="63dp"
+        android:layout_height="46dp"
+        android:layout_marginEnd="216dp"
+        android:layout_marginBottom="340dp"
+        android:background="@drawable/round_button"
+        android:ems="10"
+        android:inputType="numberSigned"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/et_day"
+        android:layout_width="63dp"
+        android:layout_height="46dp"
+        android:layout_marginEnd="280dp"
+        android:layout_marginBottom="340dp"
+        android:background="@drawable/round_button"
+        android:ems="10"
+        android:inputType="numberSigned"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/et_year"
+        android:layout_width="78dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="136dp"
+        android:layout_marginBottom="340dp"
+        android:background="@drawable/round_button"
+        android:ems="10"
+        android:inputType="numberSigned"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/et_assignment"
+        android:layout_width="291dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginBottom="452dp"
+        android:background="@drawable/round_button"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/assignment"
+        android:layout_width="168dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginBottom="516dp"
+        android:text="Assigment"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/due"
+        android:layout_width="168dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginBottom="396dp"
+        android:text="Due at"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
