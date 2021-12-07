@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="pref_sync"
+        android:summary="Do you want to recieve notifications"
+        android:title="Notifications"
+        app:icon="@android:drawable/ic_popup_reminder" />
+
+    <ListPreference
+        android:key="pref_sync_connection_type"
+        android:title="Appreance"
+        android:entries="@array/pref_syncConnectionType_entries"
+        android:entryValues="@array/pref_syncConnectionType_values"
+        android:defaultValue="defaultvalue"
+        android:summary="Choose the appreance of the app"
+        />
+
+</PreferenceScreen>
