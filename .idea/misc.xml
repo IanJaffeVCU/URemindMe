@@ -8,6 +8,7 @@
         <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/app_bar_main.xml" value="0.24739583333333334" />
         <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/class_schedule_fragment.xml" value="0.24739583333333334" />
         <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/content_main.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/form_todo.xml" value="0.24739583333333334" />
         <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_account.xml" value="0.24739583333333334" />
         <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_calendar.xml" value="0.24739583333333334" />
         <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_class_form.xml" value="0.24739583333333334" />
@@ -15,7 +16,10 @@
         <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_home.xml" value="0.24739583333333334" />
         <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_item.xml" value="0.24739583333333334" />
         <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_note.xml" value="0.24739583333333334" />
-        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_note_form.xml" value="0.19" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_note_form.xml" value="0.1" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_second.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_to_do.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/nav_header_main.xml" value="0.24739583333333334" />
         <entry key="..\:/Users/Roshan Pradhan/AndroidStudioProjects/FinalProj355/app/src/main/res/layout/activity_forms.xml" value="0.1" />
         <entry key="..\:/Users/Roshan Pradhan/AndroidStudioProjects/FinalProj355/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Roshan Pradhan/AndroidStudioProjects/FinalProj355/app/src/main/res/layout/app_bar_main.xml" value="0.16" />

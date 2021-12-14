@@ -20,6 +20,7 @@ public class FormsActivity extends AppCompatActivity {
     private AppBarConfiguration appBarConfiguration;
     private ActivityFormsBinding binding;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
