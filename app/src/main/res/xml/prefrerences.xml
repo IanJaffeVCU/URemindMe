@@ -11,12 +11,11 @@
         app:icon="@android:drawable/ic_popup_reminder" />
 
     <ListPreference
-        android:key="pref_sync_connection_type"
-        android:title="Appreance"
+        android:defaultValue="true"
         android:entries="@array/pref_syncConnectionType_entries"
         android:entryValues="@array/pref_syncConnectionType_values"
-        android:defaultValue="defaultvalue"
+        android:key="pref_sync_connection_type"
         android:summary="Choose the appreance of the app"
-        />
+        android:title="Appreance" />
 
 </PreferenceScreen>
