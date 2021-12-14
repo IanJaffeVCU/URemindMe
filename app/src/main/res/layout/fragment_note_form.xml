@@ -34,8 +34,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text_calendar2"
-        app:layout_constraintVertical_bias="1.0"
-        android:onClick="store_subject"/>
+        app:layout_constraintVertical_bias="1.0"/>
 
     <TextView
         android:id="@+id/text_calendar"
@@ -62,8 +61,7 @@
         app:layout_constraintBottom_toTopOf="@+id/SaveButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        android:onClick="store_notes"/>
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <Button
         android:id="@+id/SaveButton"
