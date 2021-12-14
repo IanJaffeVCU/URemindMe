@@ -9,10 +9,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:textSize="25sp"
+        android:layout_marginTop="40dp"
         android:text="welcome to account page"
-        android:layout_marginTop="40dp">
-    </TextView>
+        android:textSize="25sp"></TextView>
 
     <Button
         android:layout_width="wrap_content"

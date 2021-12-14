@@ -3,6 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/activity_main.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/activity_note.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/app_bar_main.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/class_schedule_fragment.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/content_main.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/form_todo.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_account.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_calendar.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_class_form.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_first.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_home.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_item.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_note.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_note_form.xml" value="0.1" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_second.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/fragment_to_do.xml" value="0.24739583333333334" />
+        <entry key="..\:/Development/Github/URemindMe/app/src/main/res/layout/nav_header_main.xml" value="0.24739583333333334" />
         <entry key="..\:/Users/Roshan Pradhan/AndroidStudioProjects/FinalProj355/app/src/main/res/layout/activity_forms.xml" value="0.1" />
         <entry key="..\:/Users/Roshan Pradhan/AndroidStudioProjects/FinalProj355/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Roshan Pradhan/AndroidStudioProjects/FinalProj355/app/src/main/res/layout/app_bar_main.xml" value="0.16" />
@@ -21,10 +38,6 @@
         <entry key="..\:/Users/Roshan Pradhan/AndroidStudioProjects/FinalProj355/app/src/main/res/menu/main.xml" value="0.16296296296296298" />
         <entry key="..\:/Users/Roshan Pradhan/AndroidStudioProjects/FinalProj355/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.209375" />
         <entry key="..\:/Users/Roshan Pradhan/AndroidStudioProjects/FinalProj355/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18072916666666666" />
-        <entry key="..\:/Users/prais/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_expandable_list_item_1.xml" value="0.11413043478260869" />
-        <entry key="..\:/Users/prais/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.11413043478260869" />
-        <entry key="..\:/Users/prais/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_2.xml" value="0.11413043478260869" />
-        <entry key="..\:/Users/prais/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.5" />
         <entry key="..\:/Users/Roshan Pradhan/OneDrive/Desktop/CMSC355APPSOriganal/app/src/main/res/layout/fragment_note_form.xml" value="0.21388888888888888" />
         <entry key="..\:/Users/Roshan Pradhan/OneDrive/Desktop/gITpROJ/app/src/main/res/drawable/ic_note.xml" value="0.3828125" />
         <entry key="..\:/Users/Roshan Pradhan/OneDrive/Desktop/gITpROJ/app/src/main/res/layout/activity_note.xml" value="0.3453703703703704" />
@@ -35,6 +48,10 @@
         <entry key="..\:/Users/Roshan Pradhan/OneDrive/Desktop/gITpROJ/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Roshan Pradhan/OneDrive/Desktop/gITpROJ/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
         <entry key="..\:/Users/Roshan Pradhan/OneDrive/Desktop/gITpROJ/app/src/main/res/xml/prefrerences.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/prais/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_expandable_list_item_1.xml" value="0.11413043478260869" />
+        <entry key="..\:/Users/prais/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.11413043478260869" />
+        <entry key="..\:/Users/prais/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_2.xml" value="0.11413043478260869" />
+        <entry key="..\:/Users/prais/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.5" />
         <entry key="..\:/Users/prais/OneDrive/Documents/SCHOOL_VCU/355 Fundamentals of Software Engineering/App_355/Version3_355app/app/app/src/main/res/menu/main.xml" value="0.1" />
         <entry key="..\:/Users/prais/OneDrive/Documents/SCHOOL_VCU/355 Fundamentals of Software Engineering/App_355/Version3_355app/app/src/main/res/drawable/ic_add.xml" value="0.1" />
         <entry key="..\:/Users/prais/OneDrive/Documents/SCHOOL_VCU/355 Fundamentals of Software Engineering/App_355/Version3_355app/app/src/main/res/drawable/ic_calendar.xml" value="0.1" />
